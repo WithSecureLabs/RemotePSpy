@@ -1,0 +1,1 @@
+All bundled libwim DLLs are licensed under the LGPL 3, and source code for these can be obtained from https://wimlib.net/
