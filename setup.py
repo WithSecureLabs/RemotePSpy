@@ -24,7 +24,7 @@ setup(
                      'for older (pre-5.0) versions of PowerShell which do not have comprehensive logging facilities '
                      'built in.',
     python_requires='>=3.7',
-    install_requires=['psutil==5.4.8', 'pywintrace==0.1.1'],
+    install_requires=['psutil==5.6.6', 'pywintrace==0.1.1'],
     entry_points={
         'console_scripts': [
             'RemotePSpy = remotepspy.__main__:run_winrm_etw',
